@@ -7,7 +7,7 @@ Leetcode 25: [K个一组翻转列表   (k个k个调换)](https://github.com/azpe
 
 Leetcode 206: [反转链表](https://github.com/azpeteryang/coding-interview/blob/master/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)       
 
-Leetcode 146: [LRU缓存机制]()       
+Leetcode 146: [LRU缓存机制](https://github.com/azpeteryang/coding-interview/blob/master/146:%20LRU%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)       
 
 Leetcode 15: [三数之和]()       
 
