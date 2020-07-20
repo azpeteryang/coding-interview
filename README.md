@@ -37,7 +37,7 @@ leetcode 105: [从前序遍历中序遍历构造二叉树](https://github.com/az
 
 leetcode 33: [搜索旋转排序数组](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2033:%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)             
 
-leetcode 334: [反转字符串]()             
+leetcode 334: [反转字符串](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20334:%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)             
 
 leetcode 128: [最长连续子序列]()       
 
