@@ -53,7 +53,7 @@ leetcode 209: [长度最小的子数组](https://github.com/azpeteryang/coding-i
 
 leetcode 113: [路径总和II](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20113:%20%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8CII.md) 
 
-leetcode 70: [爬楼梯]()    
+leetcode 70: [爬楼梯](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2070:%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md)    
 
 leetcode 41: [缺失的一个正数](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2041:%20%E7%BC%BA%E5%A4%B1%E7%9A%84%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.md)       
 
