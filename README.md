@@ -39,7 +39,7 @@ leetcode 33: [搜索旋转排序数组](https://github.com/azpeteryang/coding-in
 
 leetcode 334: [反转字符串](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20334:%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)             
 
-leetcode 128: [最长连续子序列]()       
+leetcode 128: [最长连续子序列](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20128:%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%AD%90%E5%BA%8F%E5%88%97.md)       
 
 leetcode 62: [不同路径]()             
 
