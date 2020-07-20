@@ -1,4 +1,4 @@
-‘’‘java
+```java
 (1)
 public int findKthLargest(int[] nums, int k) {
     Arrays.sort(nums);
@@ -16,4 +16,4 @@ public int findKthLargest(int[] nums, int k) {
     }
     return q.peek();
 }
-'''
+```
