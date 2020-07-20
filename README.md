@@ -47,7 +47,7 @@ leetcode 104: [二叉树的最大深度](https://github.com/azpeteryang/coding-i
 
 leetcode 415: [字符串相加（数字表示为字符串以后相加）](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20415:%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.md)       
 
-leetcode 141：[环形链表](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20141%EF%BC%9A%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)            
+leetcode 141：[环形链表（判断链表里面是否有环）](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20141%EF%BC%9A%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)            
 
 leetcode 209: [长度最小的子数组](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20209:%20%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)       
 
