@@ -29,7 +29,7 @@ leetcode 94: [二叉树的中序遍历](https://github.com/azpeteryang/coding-in
 
 leetcode 20: [有效的括号](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2020:%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)            
 
-leetcode 234: [回文链表]()             
+leetcode 234: [回文链表](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20234:%20%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)             
 
 leetcode 110: [平衡二叉树]()            
 
