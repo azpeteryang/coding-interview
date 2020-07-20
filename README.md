@@ -55,7 +55,7 @@ leetcode 113: [找出从根到叶子节点的符合和为定值的路径](https:
 
 leetcode 70: [爬楼梯（有三个楼梯，一次只能爬一到两个楼梯）](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2070:%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md)    
 
-leetcode 41: [缺失的一个正数](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2041:%20%E7%BC%BA%E5%A4%B1%E7%9A%84%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.md)       
+leetcode 41: [缺失的第一个正数](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2041:%20%E7%BC%BA%E5%A4%B1%E7%9A%84%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.md)       
 
 leetcode 162: [寻找峰值](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20162:%20%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.md)     
 
