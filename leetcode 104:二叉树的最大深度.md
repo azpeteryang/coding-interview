@@ -1,1 +1,9 @@
-
+if the node does not exist, simply return 0. Otherwise, return the 1+the longer distance of its subtree.
+```java
+public int maxDepth(TreeNode root) {
+        if(root==null){
+            return 0;
+        }
+        return 1+Math.max(maxDepth(root.left),maxDepth(root.right));
+    }
+```
