@@ -1,13 +1,27 @@
 
 ```java
-public int sumNumbers(TreeNode root) {
-	return sum(root, 0);
+public List<List<Integer>> pathSum(TreeNode root, int sum){
+	List<List<Integer>> result  = new LinkedList<List<Integer>>();
+	List<Integer> currentResult  = new LinkedList<Integer>();
+	pathSum(root,sum,currentResult,result);
+	return result;
 }
 
-public int sum(TreeNode n, int s){
-	if (n == null) return 0;
-	if (n.right == null && n.left == null) return s*10 + n.val;
-	return sum(n.left, s*10 + n.val) + sum(n.right, s*10 + n.val);
+public void pathSum(TreeNode root, int sum, List<Integer> currentResult,
+		List<List<Integer>> result) {
+
+	if (root == null)
+		return;
+	currentResult.add(new Integer(root.val));
+	if (root.left == null && root.right == null && sum == root.val) {
+		result.add(new LinkedList(currentResult));
+		currentResult.remove(currentResult.size() - 1);//don't forget to remove the last integer
+		return;
+	} else {
+		pathSum(root.left, sum - root.val, currentResult, result);
+		pathSum(root.right, sum - root.val, currentResult, result);
+	}
+	currentResult.remove(currentResult.size() - 1);
 }
 
 ```
