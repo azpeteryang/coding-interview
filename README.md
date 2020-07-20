@@ -21,7 +21,7 @@ leetcode 121:[买卖股票的最佳时机](https://github.com/azpeteryang/coding
 
 leetcode 124:[二叉树的最大路径和](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20124:%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.md)         
 
-leetcode 543:[二叉树的直径]()         
+leetcode 543:[二叉树的直径](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20543:%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.md)         
 
 leetcode 21: [合并两个有序链表]()         
 
