@@ -41,7 +41,7 @@ leetcode 334: [反转字符串](https://github.com/azpeteryang/coding-interview/
 
 leetcode 128: [最长连续子序列](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20128:%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%AD%90%E5%BA%8F%E5%88%97.md)       
 
-leetcode 62: [不同路径]()             
+leetcode 62: [不同路径](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2062:%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)             
 
 leetcode 104: [二叉树的最大深度]()       
 
