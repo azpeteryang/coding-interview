@@ -33,7 +33,7 @@ leetcode 234: [回文链表](https://github.com/azpeteryang/coding-interview/blo
 
 leetcode 110: [平衡二叉树](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20110:%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)            
 
-leetcode 105: [从前序遍历中序遍历构造二叉树]()          
+leetcode 105: [从前序遍历中序遍历构造二叉树](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20105:%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)          
 
 leetcode 33: [搜索旋转排序数组]()             
 
