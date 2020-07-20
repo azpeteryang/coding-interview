@@ -19,7 +19,7 @@ leetcode 199: [二叉树的右视图](https://github.com/azpeteryang/coding-inte
 
 leetcode 121:[买卖股票的最佳时机](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20121:%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)        
 
-leetcode 124:[二叉树的最大路径和]()         
+leetcode 124:[二叉树的最大路径和](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20124:%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.md)         
 
 leetcode 543:[二叉树的直径]()         
 
