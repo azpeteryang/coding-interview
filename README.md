@@ -25,7 +25,7 @@ leetcode 543:[二叉树的直径](https://github.com/azpeteryang/coding-intervie
 
 leetcode 21: [合并两个有序链表](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2021:%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)         
 
-leetcode 94: [二叉树的中序遍历]()       
+leetcode 94: [二叉树的中序遍历](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2094:%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)       
 
 leetcode 20: [有效的括号]()            
 
