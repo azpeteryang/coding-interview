@@ -31,7 +31,7 @@ leetcode 20: [有效的括号（看括号是否匹配）](https://github.com/azp
 
 leetcode 234: [回文链表(1->2->2->1)](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20234:%20%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)             
 
-leetcode 110: [平衡二叉树](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20110:%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)            
+leetcode 110: [平衡二叉树（二叉树的左右高度差不超过1）](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20110:%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)            
 
 leetcode 105: [从前序遍历中序遍历构造二叉树](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20105:%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)          
 
