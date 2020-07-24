@@ -1,17 +1,18 @@
-I use a queue to implement BFS. Each time when I poll a node, I add this node value to level. I use a variable zigzag to indicate whether add from left to right or right to left. If zigzag == false, it is from left to right; if zigzag == true, it is from right to left.
+使用一个队列来实现广度优先搜索。每当移除一个节点，将这个节点加入到这一层中
+If z == false, it is from left to right; if z == true, it is from right to left.
 And from right to left just need to use ArrayList.add(0, value) method
 ```java
 List<List<Integer>> res = new ArrayList<>();
 if (root == null) return res;
 Queue<TreeNode> queue = new LinkedList<>();
 queue.add(root);
-boolean zigzag = false;
+boolean z = false;
 while (!queue.isEmpty()) {
     List<Integer> level = new ArrayList<>();
     int cnt = queue.size();
     for (int i = 0; i < cnt; i++) {
         TreeNode node = queue.poll();
-        if (zigzag) {
+        if (z) {
             level.add(0, node.val);
         }
         else {
@@ -25,7 +26,7 @@ while (!queue.isEmpty()) {
         }
     }
     res.add(level);
-    zigzag = !zigzag;
+    z = !z;
 }
 return res;
 ```
