@@ -1,4 +1,4 @@
-The idea is to find so far min
+思路是找到当前的最小值
 ```java
 public int maxProfit(int[] prices) {
 		 if (prices.length == 0) {
