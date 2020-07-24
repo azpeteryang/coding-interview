@@ -16,11 +16,11 @@ public class Solution {
         if(curr == null){
             return;
         }
-        if(currDepth == result.size()){
+        if(currDepth == result.size()){                   //确保那一层的第一个元素会被加入到result里面
             result.add(curr.val);
         }
         
-        rightView(curr.right, result, currDepth + 1);
+        rightView(curr.right, result, currDepth + 1);      //先右后左,返回rightview，先左后右，返回leftview
         rightView(curr.left, result, currDepth + 1);
         
     }
