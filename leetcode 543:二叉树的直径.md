@@ -1,4 +1,5 @@
 For every node, length of longest path which pass it = MaxDepth of its left subtree + MaxDepth of its right subtree.
+递归的方法，对于任何一个节点而言，最长的path等于左边的加右边的最大值
 ```java
 public class Solution {
     int max = 0;
