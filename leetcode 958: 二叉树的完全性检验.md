@@ -1,4 +1,4 @@
-
+使用队列来实现      
 When level-order traversal in a complete tree, after the last node, all nodes in the queue should be null.
 Otherwise, the tree is not complete.
 
