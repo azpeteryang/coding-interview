@@ -35,7 +35,7 @@ leetcode 110: [平衡二叉树（二叉树的左右高度差不超过1）](https
 
 leetcode 105: [从前序遍历中序遍历构造二叉树](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20105:%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)          
 
-leetcode 33: [搜索旋转排序数组](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2033:%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)             
+leetcode 33: [在旋转过后的数组里面搜索元素](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%2033:%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)             
 
 leetcode 334: [数组里面递增的三个元素（arr[i] < arr[j] < arr[k]） ](https://github.com/azpeteryang/coding-interview/blob/master/leetcode%20334:%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)             
 
