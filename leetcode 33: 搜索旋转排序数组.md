@@ -1,6 +1,4 @@
-The idea is that when rotating the array, there must be one half of the array that is still in sorted order.
-For example, 6 7 1 2 3 4 5, the order is disrupted from the point between 7 and 1. So when doing binary search, we can make a judgement that which part is ordered and whether the target is in that range, if yes, continue the search in that half, if not continue in the other half.
-
+这个想法是，当旋转阵列时，必须有一半的阵列仍处于排序状态。例如6 7 1 2 3 4 5，该顺序从7到1之间的点被破坏了。因此，在执行二进制搜索时，我们可以判断哪个部分是有序的，以及目标是否在该范围内（如果是） ，请继续搜索另一半，如果不能继续搜索另一半。      
 
 ```java
 public class Solution {
