@@ -15,7 +15,7 @@ public void pathSum(TreeNode root, int sum, List<Integer> currentResult,
 	currentResult.add(new Integer(root.val));
 	if (root.left == null && root.right == null && sum == root.val) {
 		result.add(new LinkedList(currentResult));
-		currentResult.remove(currentResult.size() - 1);//don't forget to remove the last integer
+		currentResult.remove(currentResult.size() - 1);              //移除最后一个整数
 		return;
 	} else {
 		pathSum(root.left, sum - root.val, currentResult, result);
