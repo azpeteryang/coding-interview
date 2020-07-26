@@ -1,4 +1,4 @@
-
+使用递归的方法，复杂度为O(n)
 ```java
 public List<List<Integer>> pathSum(TreeNode root, int sum){
 	List<List<Integer>> result  = new LinkedList<List<Integer>>();
