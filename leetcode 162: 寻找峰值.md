@@ -24,6 +24,7 @@ b) nums[mid] > nums[mid + 1]. Similarly, [left, mid] respects the invariant (num
 
 As a result, the invariant gets reestablished and it will also hold when we exit the loop. In that case we have an interval of length 2 i.e. right = left + 1. If nums[left] > nums[right], using the invariant (nums[left - 1] < nums[left]), we get that left is a peak. Otherwise right is the peak (nums[left] < nums[right] and nums[right] < nums[right + 1] from the invariant).
 
+使用二分法来解决
 ```java
 public int findPeakElement(int[] nums) {
     int N = nums.length;
